@@ -1,6 +1,5 @@
 # simple-arp-spoofer
-간단한 apr 스푸퍼
-
+simple arp spoofer
 
 # how to use
 
