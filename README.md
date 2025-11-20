@@ -8,6 +8,4 @@ simple arp spoofer
 
 
 # Contact
-
-- insta : chxn_.minn
 - email : support@partynextdoor.xyz
