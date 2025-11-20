@@ -8,11 +8,10 @@ simple arp spoofer
 
 # working
 
-- [before](https://github.com/lydhwa/simple-arp-spoofer/issues/1#issue-3645298952)
+[![before](./before.png)](https://github.com/lydhwa/simple-arp-spoofer/issues/1#issue-3645298952)
 
 
 # Contact
 
 - insta : chxn_.minn
-
 - email : support@partynextdoor.xyz
