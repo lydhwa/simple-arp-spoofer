@@ -11,7 +11,7 @@ def isGetMac(ip):
         req = ARP(pdst=ip) #arp 요청 패킷 설정
         broadcast = Ether(dst="ff:ff:ff:ff:ff:ff") # 이더넷 프레임 생성
         result = broadcast / req # 이더넷프레임 + arp 패킷 
-        ans = srp(result,verbose=False)[0] # 네트워크에 전송 후 응답받기
+        ans = srp(result,verbose=0)[0] # 네트워크에 전송 후 응답받기
         mac = ans[0][1].hwsrc #맥주소만 추출
         return mac
     except Exception as e:
